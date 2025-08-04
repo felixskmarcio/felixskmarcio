@@ -23,7 +23,7 @@ def minhaVida():
 **Desenvolvedor de Software** com sólida formação em múltiplas linguagens de programação e frameworks modernos. Especializado em desenvolvimento full-stack com foco em soluções escaláveis e eficientes. Experiência em metodologias ágeis, versionamento de código e práticas de DevOps.
 
 ### 🎓 Formação & Certificações
-- **Ciência da Computação** | Graduação em andamento
+- **Sistema de Informação** | Graduação em andamento
 - **Algoritmos e Estruturas de Dados** | Certificação avançada
 - **Desenvolvimento Web Full-Stack** | Bootcamp intensivo
 - **Git & GitHub** | Controle de versão profissional
