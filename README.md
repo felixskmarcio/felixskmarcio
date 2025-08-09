@@ -59,7 +59,7 @@ def minhaVida():
 
 ## 💻 Expertise Tecnológica
 
-### 🚀 Linguagens de Programação | Nível de Proficiência
+### 🚀 Linguagens de Programação | Nível de Intermediario 
 <div align="center">
 
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -87,11 +87,8 @@ def minhaVida():
 <div align="center">
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div>
 
@@ -99,11 +96,14 @@ def minhaVida():
 <div align="center">
 
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="Cursor" src="https://img.shields.io/badge/Cursor-00B2FF?style=for-the-badge&logo=cursor&logoColor=white" />
+<img alt="TRAE IA" src="https://img.shields.io/badge/TRAE_IA-00B2FF?style=for-the-badge&logo=ai&logoColor=white" />
+<img alt="Claude" src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+
 
 </div>
 
@@ -127,12 +127,9 @@ def minhaVida():
 - **Arquitetura de Microserviços**: Design patterns e escalabilidade
 - **Cloud Computing**: AWS Solutions Architect certification
 - **Machine Learning**: Aplicações práticas com Python e TensorFlow
-- **Segurança em Aplicações**: OWASP e práticas de cybersecurity
-
-### 🔬 Projetos de Pesquisa
-- **Performance Optimization**: Análise e otimização de aplicações web
-- **API Design**: Desenvolvimento de APIs RESTful e GraphQL
-- **Automação**: Scripts e ferramentas para DevOps
+- **Desenvolvimento com Vibe Coding**: Técnicas e padrões avançados de programação
+- **Desenvolvimento Assistido por IA**: Utilizando TRAE AI e Claude para aprimorar a codificação
+- **Práticas Modernas de Desenvolvimento**: Integrando ferramentas de IA no fluxo de trabalho
 
 ## 🎯 Roadmap Profissional 2024-2025
 
@@ -145,8 +142,6 @@ def minhaVida():
 ### 🌟 Objetivos de Médio Prazo (1-2 anos)
 - 👥 Liderar equipe de desenvolvimento em projeto complexo
 - 🎓 Especialização em Inteligência Artificial aplicada
-- 🌍 Palestrar em conferências técnicas nacionais
-- 💼 Posição Senior Developer em empresa de tecnologia
 
 ## 🏆 GitHub Trophies
 
@@ -154,38 +149,12 @@ def minhaVida():
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=felixskmarcio&bg_color=000080&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 🚀 Portfolio & Projetos em Destaque
-
-### 💼 Projetos Profissionais
-| Projeto | Tecnologias | Descrição | Status |
-|---------|-------------|-----------|---------|
-| **E-Commerce Platform** | React, Node.js, MongoDB | Sistema completo de vendas online com painel administrativo | 🚀 Em Produção |
-| **Task Management API** | Python, Django, PostgreSQL | API RESTful para gerenciamento de tarefas empresariais | ✅ Concluído |
-| **Real-time Chat App** | Socket.io, Express, React | Aplicação de chat em tempo real com salas privadas | 🔄 Em Desenvolvimento |
-
-### 🌟 Contribuições Open Source
-- **React Component Library**: +50 stars, 15 contributors
-- **Python Automation Tools**: +100 downloads/mês
-- **Documentation Projects**: Traduções e melhorias técnicas
-
-## 📈 Métricas de Impacto
-
-<div align="center">
-
-| **Código & Contribuições** | **Aprendizado & Crescimento** | **Comunidade & Networking** |
-|:---:|:---:|:---:|
-| 📊 **500+** Commits este ano | 📚 **12** Cursos concluídos | 🤝 **50+** Conexões LinkedIn |
-| 🔧 **15** Projetos ativos | 🏆 **5** Certificações técnicas | 💬 **20+** Discussões técnicas |
-| ⭐ **200+** Stars em repositórios | 📖 **100+** Horas de estudo | 🎯 **10+** Mentorias realizadas |
-
-</div>
-
 ## 📞 Vamos Colaborar?
 
 <div align="center">
 
 ### 🎯 **Disponível para:**
-**Freelances** • **Projetos Open Source** • **Mentorias** • **Oportunidades Full-time**
+**Freelances** • **Projetos Open Source** • **Oportunidades Full-time**
 
 ### 💡 *"Code is poetry written in logic"*
 
@@ -193,6 +162,6 @@ def minhaVida():
 
 ---
 
-*Última atualização: Dezembro 2024*
+*Última atualização: Agosto 2025*
 
 </div>
