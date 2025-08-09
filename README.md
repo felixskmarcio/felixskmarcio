@@ -20,19 +20,18 @@ def minhaVida():
 
 ## 👋 Perfil Profissional
 
-**Desenvolvedor de Software** com sólida formação em múltiplas linguagens de programação e frameworks modernos. Especializado em desenvolvimento full-stack com foco em soluções escaláveis e eficientes. Experiência em metodologias ágeis, versionamento de código e práticas de DevOps.
+**Desenvolvedor Full-Stack Junior** em arquitetura de software e domínio em múltiplas tecnologias. Especialista em desenvolvimento de soluções web, com foco em alta performance, segurança e escalabilidade. Experiência em liderança técnica, implementação de metodologias ágeis. Ultilizando o Vibe coding para aprimorar a experiência do usuário.
 
 ### 🎓 Formação & Certificações
 - **Sistema de Informação** | Graduação em andamento
 - **Algoritmos e Estruturas de Dados** | Certificação avançada
 - **Desenvolvimento Web Full-Stack** | Bootcamp intensivo
-- **Git & GitHub** | Controle de versão profissional
+- **Git & GitHub** | Controle de versão
 
 ### 💼 Competências Técnicas
-- **Backend Development**: APIs RESTful, Microserviços, Banco de Dados
-- **Frontend Development**: Interfaces responsivas, UX/UI, SPA
-- **DevOps**: Containerização, CI/CD, Deploy automatizado
-- **Metodologias**: Scrum, Kanban, TDD, Clean Code
+- **Backend Development**: APIs, Microserviços, Banco de Dados
+- **Frontend Development**: Interfaces responsivas, UX/UI, Dev em Vibe coding
+- **Metodologias**: Scrum, Kanban e Metodologia Ágil.
 
 ### 📫 Entre em Contato
 
